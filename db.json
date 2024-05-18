@@ -44,7 +44,39 @@
       "img": "https://m.media-amazon.com/images/I/61V5Gsjg-SL._AC_UL480_QL65_.jpg",
       "price": 12600,
       "rating": 3.5
-    }
+    },
+        {
+      "id": 6,
+      "title": "KINGDOM OF WHITE",
+      "description": "KINGDOM OF WHITE Cotton Blend White Formal Shirt for Men I Breathable Absorbent Fabric I Regular Collar & Full Sleeve Shirt | Regular Fit Office Wear",
+      "img": "https://m.media-amazon.com/images/I/51meMT-c9RL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 990,
+      "rating": 4.5
+    },
+        {
+      "id": 7,
+      "title": "FRENCH CROWNr",
+      "description": "FRENCH CROWN Men's White Pure Cotton Regular Fit Textured Full Sleeves Casual Shirt",
+      "img": "https://m.media-amazon.com/images/I/41WCRmd6DYL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 2390,
+      "rating": 4
+    },
+        {
+      "id": 8,
+      "title": "GRECIILOOKS",
+      "description": "GRECIILOOKS Men Solid Regular Fit Casual Shirt (Pack of 1)",
+      "img": "https://m.media-amazon.com/images/I/71QrkXBPABL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 590,
+      "rating": 4.1
+    },
+        {
+      "id": 9,
+      "title": "U.S. POLO ASSN.",
+      "description": "U.S. POLO ASSN. Men's Regular Fit Shirt",
+      "img": "https://m.media-amazon.com/images/I/716HLKezIuL._AC_UL480_QL65_.jpg",
+      "price": 2190,
+      "rating": 4.5
+    },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
